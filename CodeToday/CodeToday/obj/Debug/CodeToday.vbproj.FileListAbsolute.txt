@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\bin\Debug\CodeToday.exe.config
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\bin\Debug\CodeToday.exe
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\bin\Debug\CodeToday.pdb
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\bin\Debug\CodeToday.xml
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\obj\Debug\CodeToday.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\obj\Debug\CodeToday.Form1.resources
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\obj\Debug\CodeToday.Resources.resources
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\obj\Debug\CodeToday.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\obj\Debug\CodeToday.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\obj\Debug\CodeToday.exe
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\obj\Debug\CodeToday.xml
+C:\Users\ASUS\source\repos\CodeToday\CodeToday\obj\Debug\CodeToday.pdb
