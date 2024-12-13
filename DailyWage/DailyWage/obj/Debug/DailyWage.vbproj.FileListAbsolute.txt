@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\bin\Debug\DailyWage.exe.config
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\bin\Debug\DailyWage.exe
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\bin\Debug\DailyWage.pdb
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\bin\Debug\DailyWage.xml
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\obj\Debug\DailyWage.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\obj\Debug\DailyWage.Form1.resources
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\obj\Debug\DailyWage.Resources.resources
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\obj\Debug\DailyWage.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\obj\Debug\DailyWage.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\obj\Debug\DailyWage.exe
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\obj\Debug\DailyWage.xml
+C:\Users\ASUS\source\repos\DailyWage\DailyWage\obj\Debug\DailyWage.pdb
