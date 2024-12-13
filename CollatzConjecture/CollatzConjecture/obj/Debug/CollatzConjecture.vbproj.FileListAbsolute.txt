@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.Form1.resources
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.Resources.resources
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe.config
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.pdb
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.xml
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.exe
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.xml
+C:\Users\ASUS\source\repos\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.pdb
